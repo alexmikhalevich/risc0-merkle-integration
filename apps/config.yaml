@@ -1,0 +1,9 @@
+directory: "data"
+file_prefix: "page_"
+root_hash_file: "hash"
+num_pages: 5
+page_size: 256
+chain_id: 0xaa36a7
+rpc_url: https://rpc.sepolia.org
+eth_wallet_private_key: 0x0
+contract: 0x0
